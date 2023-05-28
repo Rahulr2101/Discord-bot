@@ -20,14 +20,8 @@ async def on_message(message):
     await bot.process_commands(message)
 
 
-@bot.command()
-async def ping(ctx):
-    await ctx.send('Pong!')
 
 
-@bot.command()
-async def say(ctx, *, text):
-    await ctx.send(text)
 
 
 @bot.command()
@@ -56,5 +50,5 @@ def parse_time_to_seconds(time):
         return None
 
 
-
-bot.run('YOUR_BOT_TOKEN')
+# Replace 'YOUR_BOT_TOKEN' with your actual bot token
+bot.run('MTA2NjIyOTE2ODYwMzQwNjM3Ng.GIOTg_._-kXRUOipL0ED_ujJkUbbycrn2iDr-2WfLBz58')
