@@ -50,5 +50,5 @@ def parse_time_to_seconds(time):
         return None
 
 
-# Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot.run('MTA2NjIyOTE2ODYwMzQwNjM3Ng.GIOTg_._-kXRUOipL0ED_ujJkUbbycrn2iDr-2WfLBz58')
+
+bot.run('YOUR_BOT_TOKEN')
