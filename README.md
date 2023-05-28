@@ -10,6 +10,6 @@ elapsed, serving as a helpful reminder.
 
 <h3>Commands:</h3>
 
-/remind <time> <reminder>: Sets a reminder for the user. The bot will send a direct message to the user after the specified duration with the reminder message.
+<b>/remind &lt;time> &lt;reminder>:</b> Sets a reminder for the user. The bot will send a direct message to the user after the specified duration with the reminder message.
 
 
